@@ -13,5 +13,10 @@ Whether you're another student or a recruiter, don't hesitate to reach out and w
 
 ## Dope Projects I've Built
 
+### NLP Calendar
+Tldr; It's a calendar app with ML powered natural language input for creating calendar events. Heavily inspired by Fantastical's solution. Built by me and a small team for a class project.
+
+I am always interesting in finding novel and meaningful ways to incorporate AI into existing vertical workflows. Big emphasis on meangiful because I am a big believer in AI being a tool to ehance existing processes rather than be the end-all-be-all of a software prooduct. That's why I built this fun project to attempt to do just that. 
+
 ### Envoy – Your Friendly Neighborhood Postgres Agent
 A natural language interface for PostgreSQL that generates and explains SQL, classifies query risk, and requires human approval before execution — so anyone on your team, technical or not, can query production data safely.

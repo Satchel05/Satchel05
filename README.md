@@ -17,6 +17,9 @@ Whether you're another student or a recruiter, don't hesitate to reach out and w
 
 ## Dope Projects I've Built
 
+### Hospital Provider CRM 
+Designed and led development efforts in building a production web CRM for a healthcare nonprofit allowing streamlined provider management and full RBAC across four permission levels.
+
 ### NLP Calendar
 Tldr; It's a calendar app with ML powered natural language input for creating calendar events. Heavily inspired by Fantastical's solution. Built by me and a small team for a class project.
 
